@@ -5,7 +5,7 @@ Get device IP address
 ## Install
 
 ```bash
-npm install capacitor-wifi-ip-plugin
+npm install https://github.com/oguzhansevim/capacitor-wifi-ip-plugin
 npx cap sync
 ```
 
